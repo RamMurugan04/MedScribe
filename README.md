@@ -4,7 +4,7 @@
 
 This Medical Transcription App is a web-based tool that uses speech recognition and AI to transcribe and process medical information. It's designed to assist medical professionals in quickly documenting patient information, including findings, symptoms, potential diagnoses, plans, and treatments.
 
-![Medical Transcription App Screenshot](https://github.com/RamMurugan04/medscribe/blob/main/ai_medical_transcription_all.png)
+![Medical Transcription App Screenshot](https://github.com/RamMurugan04/MedScribe/blob/master/ai_medical_transcription_all.png)
 
 ## Features
 
@@ -23,11 +23,11 @@ This Medical Transcription App is a web-based tool that uses speech recognition 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/RamMurugan04/medscribe.git
+   git clone https://github.com/RamMurugan04/MedScribe.git
    ```
 2. Navigate to the project directory:
    ```
-   cd medscribe
+   cd MedScribe
    ```
 3. Open `index.html` in your web browser.
 
